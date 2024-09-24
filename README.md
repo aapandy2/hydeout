@@ -1,3 +1,10 @@
+# My fork of Hydeout (jekyll theme)
+
+Notes:
+- run "bundle install"
+- run "jekyll serve" and copy the link it provides into browser
+
+
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
